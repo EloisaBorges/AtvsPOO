@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class FolhaPagamento {
+public class FolhaDePagamento {
     public static void processarPagamentos(List<Funcionario> funcionarios) {
         for (Funcionario f : funcionarios) {
             System.out.println("Funcionário: " + f.getNome());

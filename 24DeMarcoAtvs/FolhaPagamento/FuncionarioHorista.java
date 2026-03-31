@@ -1,5 +1,3 @@
-package folhaPagamento;
-
 public class FuncionarioHorista extends Funcionario {
     private int horasTrabalhadas;
     private double valorPorHora;
